@@ -1,0 +1,8 @@
+SQUARE side=6 area=36, Perimeter =24
+RECTANGLE length=6 width=7 area= 42.00
+CIRCLE Radius=5.00 area=78.50
+TRIANGLE side=4.00 area=6.93
+CUBE side=5.00 surface area=150.00 volume=125.00
+BOX length=2.00 width=3.00 height=4.00 surface area=52.00 volume=24.00
+CYLINDER radius=3.00 height=5.00 surface area=150.72 volume=141.30
+PRISM side=8.00 height=9.00 surface area=271.43 volume=249.42
